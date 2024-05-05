@@ -1,8 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h3>Date: 12-02-2024</h3>
 <h3>Name: R GURUPRASAD</h3>
 <h3>Register Number: 212222240033</h3>
-
-
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
